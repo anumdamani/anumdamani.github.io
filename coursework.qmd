@@ -1,0 +1,30 @@
+---
+title: "Coursework"
+---
+
+Please see below for a list of relevant, completed graduate and undergraduate courses. The graduate courses are statistics & data science courses. My undergraduate courses were in statistics, data science, computer science, communication, and ArcGIS. The primary programming/scripting languages or technologies used in the courses are mentioned below as well.
+
+
+* Graduate Coursework at UCLA (Completed):\
+  + STATS 401: Survey of Methods in Modern Statistics (R)\
+  + STATS 402: Applied Regression (R)\
+  + STATS 403: Mathematical Statistics\
+  + STATS 404: Statistical Computing and Programming (Python)\
+
+
+* Undergraduate Coursework at UCSB (Completed):\
+  + PSTAT 10: Data Science Principles (R & SQL)\
+  + PSTAT 120A: Probability & Statistics I\
+  + PSTAT 120B: Proability & Statistics II\
+  + CMPSC 8: Intro to Computer Science (Python)\
+  + CMPSC 9: Data Structures & Algorithms (Python)\
+  + PSTAT 126: Regression Analysis (R)\
+  + PSTAT 131: Statistical Machine Learning (R)\
+  + PSTAT 100: Data Science Concepts & Analysis (Python)\
+  + PSTAT 160A: Stochastic Processes (Python)\
+  + PSTAT 174: Time Series (R)\
+  + GEOG 176A: Intro to Geographic Information Systems (ArcGIS)\
+  + PSTAT 122: Design of Experiments\
+  + COMM 160DS: Data Science Communication (Excel & Python)\
+  + PSTAT 197A-B-C: Data Science Capstone (Python)
+

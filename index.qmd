@@ -1,0 +1,13 @@
+---
+title: "Welcome!"
+---
+
+![Here's a photo of me.](AD-Headshot.png){width=365px height=350px}
+
+My name is Anum Damani. I am a first-year Master of Applied Statistics & Data Science student at UCLA.\newline
+
+My current resume can be found here: [Resume](Resume - Anum Damani - Spring 2024.pdf)
+
+
+
+

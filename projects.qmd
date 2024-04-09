@@ -1,0 +1,24 @@
+---
+title: "Projects"
+---
+
+Data Science Projects:\
+
+* [Predicting Obesity Based on Physical Characteristics & Habits](https://github.com/anumdamani/obesity)
+  + Programming Language Used: Python
+
+* [Predicting Body Mass of Antarctic Penguins using Logistic Regression](https://github.com/anumdamani/penguins)
+  + Programming Language Used: R
+
+* [Homelessness & COVID-19 in Los Angeles County](https://github.com/anumdamani/GIS-Homelessness-COVID-Project)
+  + Software Used: ArcGIS
+
+* [Multi-Class Claims Activity Classification Based on HTML Data](https://github.com/anumdamani/ucsb-ds-capstone-2022.github.io/tree/main/ucsb_ds_capstone_projects_2022/projects/carpedatao)
+  + Programming Language Used: Python
+
+* [Forecasting COVID-19 Cases in California](https://github.com/anumdamani/COVID-MachineLearning-Project)
+  + Programming Language Used: Python
+
+* [Monthly Sales of United States Houses from 1965 to 1975](https://github.com/anumdamani/US-Houses-TimeSeries-Project)
+  + Programming Language Used: R
+

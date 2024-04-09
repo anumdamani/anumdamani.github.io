@@ -1,0 +1,16 @@
+---
+title: "Tools"
+---
+
+* I am able to use the following tools/technologies/languages:
+  + Python
+  + R
+  + SQL
+  + Tableau
+  + Microsoft Office
+  + Git/GitHub
+  + LaTeX
+  + ArcGIS Pro
+  + Google Analytics
+  + Campaign Manager 360
+  

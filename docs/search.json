@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Here’s a photo of me.\n\n\nMy name is Anum Damani. I am a first-year Master of Applied Statistics & Data Science student at UCLA.\nMy current resume can be found here: Resume"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Data Science Projects:\n\n\nPredicting Obesity Based on Physical Characteristics & Habits\n\nProgramming Language Used: Python\n\nPredicting Body Mass of Antarctic Penguins using Logistic Regression\n\nProgramming Language Used: R\n\nHomelessness & COVID-19 in Los Angeles County\n\nSoftware Used: ArcGIS\n\nMulti-Class Claims Activity Classification Based on HTML Data\n\nProgramming Language Used: Python\n\nForecasting COVID-19 Cases in California\n\nProgramming Language Used: Python\n\nMonthly Sales of United States Houses from 1965 to 1975\n\nProgramming Language Used: R"
+  },
+  {
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "Please see below for a list of relevant, completed graduate and undergraduate courses. The graduate courses are statistics & data science courses. My undergraduate courses were in statistics, data science, computer science, communication, and ArcGIS. The primary programming/scripting languages or technologies used in the courses are mentioned below as well.\n\nGraduate Coursework at UCLA (Completed):\n\n\nSTATS 401: Survey of Methods in Modern Statistics (R)\n\nSTATS 402: Applied Regression (R)\n\nSTATS 403: Mathematical Statistics\n\nSTATS 404: Statistical Computing and Programming (Python)\n\n\nUndergraduate Coursework at UCSB (Completed):\n\n\nPSTAT 10: Data Science Principles (R & SQL)\n\nPSTAT 120A: Probability & Statistics I\n\nPSTAT 120B: Proability & Statistics II\n\nCMPSC 8: Intro to Computer Science (Python)\n\nCMPSC 9: Data Structures & Algorithms (Python)\n\nPSTAT 126: Regression Analysis (R)\n\nPSTAT 131: Statistical Machine Learning (R)\n\nPSTAT 100: Data Science Concepts & Analysis (Python)\n\nPSTAT 160A: Stochastic Processes (Python)\n\nPSTAT 174: Time Series (R)\n\nGEOG 176A: Intro to Geographic Information Systems (ArcGIS)\n\nPSTAT 122: Design of Experiments\n\nCOMM 160DS: Data Science Communication (Excel & Python)\n\nPSTAT 197A-B-C: Data Science Capstone (Python)"
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Tools",
+    "section": "",
+    "text": "I am able to use the following tools/technologies/languages:\n\nPython\nR\nSQL\nTableau\nMicrosoft Office\nGit/GitHub\nLaTeX\nArcGIS Pro\nGoogle Analytics\nCampaign Manager 360"
+  }
+]
